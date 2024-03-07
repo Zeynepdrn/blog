@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    margin-top: 30px;
+    margin-left: 300px;
+    padding: 20px;
+}
+
+.col-6{
+    background-color: rgba(255, 182, 193, 0.599); 
+    padding:60px 20px;
+}
+
+.col-5{
+    padding: 30px;
+}
+
+.prjfoto{
+    padding: 20px 80px;
+}
+
+.icon{
+    padding-right: 30px;
+}
+
+footer{
+    text-align: center;
+    color: darkblue;
+    background-color: rgba(24, 23, 23, 0.878);
+    padding: 10px 0;
+    font-size: 14px;
+    font-weight: bolder;
+}
